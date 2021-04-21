@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-
+<!--
 **mishra-atul5001/mishra-atul5001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Welcome to a growing repository profile. I am by profession a Data Scientist working at an MNC 🏢.
 - I love to write short programs and just do random ML problems. 😋
