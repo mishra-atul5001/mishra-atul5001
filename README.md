@@ -22,3 +22,5 @@ My Fav repos are:
 - [DS Repo full of Diverse ML Projects](https://github.com/mishra-atul5001/Data-Science-and-ML-insights-Projects)
 - [365 days on Python and ML](https://github.com/mishra-atul5001/365-Days-of-Python-and-ML)
 - [Awesome ML](https://github.com/mishra-atul5001/Awesome-Machine-Learning..-)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-atul5001)](https://github.com/mishra-atul5001/github-readme-stats)
