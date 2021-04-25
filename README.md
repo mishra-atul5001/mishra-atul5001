@@ -10,7 +10,7 @@ Welcome to a growing repository profile. I am by profession a Data Scientist wor
 - 🌱 I’m addicted to learning and growing every day.
 - Looking for people to collaborate on DS/ML Hackathons or maybe solve any real world problem.
 - Part-time engaged with ML Freelancing and DS Mentoring.
-- FIFA Lover!! **World Class** is my Level!
+- FIFA Lover!! **World Class** is my Level!😉
 
 Wanna connect!? Find me here:
 - [LinkedIn 📡](https://www.linkedin.com/in/atul-mishra-5001/) 
